@@ -1,0 +1,21 @@
+# Javascript/Typescript
+node_modules
+bun.lockb
+public/static/css/styles.css
+
+# Golang/Templ
+go.sum
+components/**/*.go
+public/**/*.html
+
+# Nix
+.direnv/
+
+# General
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
